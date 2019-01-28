@@ -1,0 +1,13 @@
+.main {
+  min-height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  background: url('./../../assets/banner3.jpg'), linear-gradient(rgba(184, 77, 255, 0.3), rgba(184, 77, 255, 0.4));
+  background-attachment: fixed;
+  background-size: cover;
+  /*background-blend-mode: overlay;*/
+  /color: #302b63;
+  color: white;
+}
